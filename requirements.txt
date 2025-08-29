@@ -1,0 +1,7 @@
+scikit-learn==1.6.1
+joblib
+pandas
+imbalanced-learn
+gradio
+xgboost
+numpy==2.0.2
